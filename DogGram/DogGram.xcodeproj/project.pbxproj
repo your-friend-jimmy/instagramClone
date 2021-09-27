@@ -23,6 +23,7 @@
 		69CE41302701635F000C6C8E /* MessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CE412F2701635F000C6C8E /* MessageView.swift */; };
 		69CE413227016476000C6C8E /* CommentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CE413127016476000C6C8E /* CommentModel.swift */; };
 		69F736F02701A058004F340C /* ImageGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F736EF2701A058004F340C /* ImageGridView.swift */; };
+		69F736F2270256E5004F340C /* UploadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F736F1270256E5004F340C /* UploadView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		69CE412F2701635F000C6C8E /* MessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageView.swift; sourceTree = "<group>"; };
 		69CE413127016476000C6C8E /* CommentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentModel.swift; sourceTree = "<group>"; };
 		69F736EF2701A058004F340C /* ImageGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGridView.swift; sourceTree = "<group>"; };
+		69F736F1270256E5004F340C /* UploadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = UploadView.swift; path = ../../../../../../../Documents/UploadView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				6999AA582700619700996D5A /* FeedView.swift */,
 				69CE412D27016095000C6C8E /* CommentsView.swift */,
 				69BE5E2B27018F080084E7DE /* BrowseView.swift */,
+				69F736F1270256E5004F340C /* UploadView.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				69BE5E2C27018F080084E7DE /* BrowseView.swift in Sources */,
 				69CE413227016476000C6C8E /* CommentModel.swift in Sources */,
 				69CE412E27016095000C6C8E /* CommentsView.swift in Sources */,
+				69F736F2270256E5004F340C /* UploadView.swift in Sources */,
 				69BE5E2E270190670084E7DE /* CarouselView.swift in Sources */,
 				6999AA572700260800996D5A /* Extentions.swift in Sources */,
 			);
